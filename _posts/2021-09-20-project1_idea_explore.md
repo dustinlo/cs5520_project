@@ -7,7 +7,7 @@ date: 2021-09-20
 # Project1_Explore_Idea
 ## Idea List
 
-1. Flashcard
+- Flashcard
    - Persona and scenario:
       - One who needs to ace his/her GRE test in order to apply for graduate school. Since in order to get a good grade on the test, a lot of difficult vocabularies which one might never use in life have to be memorized. A flashcard application would be useful for memorizing vocabularies.
    - Trigger:
@@ -27,7 +27,7 @@ date: 2021-09-20
 
 ---
 
-2. Nanny finder
+- Nanny finder
    - Persona and scenario:
       - parents who do not want to spend a lot of money sending their toddlers to daycare. As a parent, I understand how difficult it is to find the most suitable nanny parents want. This application can also provide nanny share feature which greatly reduce the cost of babysitting.
    - Trigger:
@@ -48,7 +48,7 @@ date: 2021-09-20
 
 ---
 
-3. Calorie tracker
+- Calorie tracker
    - Persona and scenario:
       - Anyone who would like to become more healthy by gaining muscle or losing weight. Diet is the most essential factor to gaining muscle or losing weight. 
    - Trigger:
