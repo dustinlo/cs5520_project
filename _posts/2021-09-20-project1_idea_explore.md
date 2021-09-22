@@ -9,9 +9,9 @@ date: 2021-09-20
 
 1. Flashcard
    - Persona and scenario:
-		+ One who needs to ace his/her GRE test in order to apply for graduate school. Since in order to get a good grade on the test, a lot of difficult vocabularies which one might never use in life have to be memorized. A flashcard application would be useful for memorizing vocabularies.
+      + One who needs to ace his/her GRE test in order to apply for graduate school. Since in order to get a good grade on the test, a lot of difficult vocabularies which one might never use in life have to be memorized. A flashcard application would be useful for memorizing vocabularies.
    - Trigger:
-		+ Instead of traditional flashcard which is bulky to carry around, the application acts as the same thing but the user does not have to carry the flashcard around. There are also features such as randomized the order of words in order to help the user memorizing vocabularies. This application can act as a normal pile of flashcard or provides tests for users to know how familiar they are with the words they input in ahead of time.
+      + Instead of traditional flashcard which is bulky to carry around, the application acts as the same thing but the user does not have to carry the flashcard around. There are also features such as randomized the order of words in order to help the user memorizing vocabularies. This application can act as a normal pile of flashcard or provides tests for users to know how familiar they are with the words they input in ahead of time.
    - Desired outcome:
       + The user can turn this off at any time since it is a flashcard. They can also know their accuracy on how well they do the test.
    - Base Knowledge:
@@ -24,9 +24,6 @@ date: 2021-09-20
          * dictionary
       + Information:
          * vocabularies
-
-
-
 ---
 
 2. Nanny finder
