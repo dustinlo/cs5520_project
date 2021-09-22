@@ -57,3 +57,6 @@ date: 2021-09-20
 1. ringtone changer
 1. grocery price checker
 1. Solitaire
+
+## Explore idea
+[Click here](https://dustinlo.github.io/cs5520_project/2021/09/20/project1_idea_explore.html)
