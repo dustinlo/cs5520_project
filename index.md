@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dustin Lo, Horrible Cop
+title: Dustin Lo
 ---
 
 ## Posts
