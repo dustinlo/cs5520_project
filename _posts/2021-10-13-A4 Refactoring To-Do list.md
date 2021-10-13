@@ -16,7 +16,7 @@ date: 2021-10-13
  
 ## What I have done
 
-I have successfully used LiveData and ViewModel to display my ToDo list createad and they still persist after I reopened/killed the application. I have looked up various YouTube tutorials but they were really different from what we are expecting. I basically have re-written this whole application for about 3 to 4 times and in the end, I kind of gave in and follow Adrienne's code.
+I have successfully used LiveData, RecyclerView, CardView and ViewModel to display my ToDo list createad and they still persist after I reopened/killed the application. Also, I created the same application layer architecture as shown in class/official website. I have looked up various YouTube tutorials but they were really different from what we are expecting. I basically have re-written this whole application for about 3 to 4 times and in the end, I kind of gave in and follow Adrienne's code.However, I did learn a lot form my  failures.
 
 # What did not work at this point
 
