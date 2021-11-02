@@ -8,7 +8,9 @@ date: 2021-10-13
 ## link
 [Github Link](https://github.com/dustinlo/NEUSEA-Chih-WeiLo/tree/c79be105c9fcd23a5728323465c807e1376d47d5/TodoApp)
 
-[Android link (not yet updated to the newest version beucase it is not functioning perfectly. The above code is the most up to date one.)](https://play.google.com/apps/testing/edu.neu.khoury.madsea.chihweilo)
+[Updated Github Link](https://github.com/dustinlo/NEUSEA-Chih-WeiLo/tree/bab60d002003a91c692af1a92ca3d98ee762f2ff/TodoApp)
+
+[Android link (Updated on 2021/11/1. Not sure if it's published yet or not.)](https://play.google.com/apps/testing/edu.neu.khoury.madsea.chihweilo)
 
 ## Screenshot
 
@@ -23,4 +25,6 @@ I have successfully used LiveData, RecyclerView, CardView and ViewModel to displ
 The update part worked fine in the older version. In this version, I have been debugging for almost 2 days and looked up a tons of posts on StackOverflow but had no luck to solve this issue: I cannot retrieve the list even directly from the repository. The application seems loading the live data just fine but when I try to access the list, I always get null pointer which meaning it is not fetching the right list at all. I will consult to Adrienne or maybe look up more tutorials to see if I am able to resolve this issue.
 
 
+# Update
 
+This has been cleaned up and now it is functioning as it should be. I removed the part which I used ViewModel because I am using two different activities to show and create the todo. After long hours of research, I figured it is not the best practice to use ViewModel to share data between two different activities. If I want to use ViewModel, I shall be changing the adding todo part to be using fragment. I feel sharing data using ViewModel between two activities is an anti-pattern and has no difference between preserving data by using only the repository class. 
