@@ -17,9 +17,5 @@ In the final project, I would like to continue working on the todo application t
 
 	Right now my notification is working fine but there are some flaws that can be improved so I will be working on this to make it closer to production-ready level.
 
-
-## What I might do if I have time
-- Integrate adding a location to a todo
-	
-	this might be one very interesting feature to be added if I have extra time to complete the application. For those who really use to-do list to its maximum potential, this is an important featre in my opinion because there might be duplicated to-dos with tasks that have to be done in different locations.
+- Add ability to delete a ToDo and persist such state in room database
 
