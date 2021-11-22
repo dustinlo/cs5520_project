@@ -10,9 +10,9 @@ date: 2021-11-12
 In the final project, I would like to continue working on the todo application that we are building.
 
 ## What I must do
-- Add ability to reorder tasks by dragging and dropping
+- Add ability to share/export a ToDo to another app
 
-	The ability of dragging and dropping in a todo list seems essential to me so I will for sure implement this into my todo application.
+	The idea is to form a block of text and to share it to another application.
 - Make my notifications more robust
 
 	Right now my notification is working fine but there are some flaws that can be improved so I will be working on this to make it closer to production-ready level.
